@@ -130,15 +130,15 @@
 <wire x1="63.754" y1="17.78" x2="63.754" y2="0" width="0" layer="20"/>
 <wire x1="63.754" y1="0" x2="-0.254" y2="0" width="0" layer="20"/>
 <text x="4.0132" y="5.8928" size="0.6096" layer="21" rot="R90">ldo</text>
-<text x="30.5054" y="10.3378" size="0.6096" layer="21" rot="R180">gnd</text>
-<text x="34.1884" y="11.2522" size="0.6096" layer="21" rot="R180">EEPROM</text>
-<text x="34.7726" y="2.1844" size="1.016" layer="21" rot="R180">riffle328</text>
-<text x="38.5318" y="0.889" size="0.6096" layer="21" rot="R180">publiclab.org/wiki/riffle</text>
+<text x="28.321" y="9.3472" size="0.6096" layer="21">gnd</text>
+<text x="31.5722" y="12.065" size="0.6096" layer="21" rot="R180">EEPROM</text>
+<text x="35.8394" y="2.0828" size="1.016" layer="21" rot="R180">riffle328</text>
+<text x="37.5412" y="0.8128" size="0.5588" layer="21" rot="R180">publiclab.org/wiki/riffle</text>
 <text x="5.7658" y="14.6558" size="0.6096" layer="22" rot="MR270">GND</text>
 <text x="8.3312" y="14.7066" size="0.6096" layer="22" rot="MR270">D8</text>
 <text x="10.7188" y="14.4272" size="0.6096" layer="22" rot="MR270">D6</text>
 <text x="13.3604" y="14.6558" size="0.6096" layer="22" rot="MR270">3.3V</text>
-<text x="15.9512" y="14.5796" size="0.6096" layer="22" rot="MR270">MISO</text>
+<text x="15.2908" y="14.351" size="0.6096" layer="22" rot="MR270">MISO</text>
 <text x="18.4658" y="14.7574" size="0.6096" layer="22" rot="MR270">SCK</text>
 <text x="21.082" y="14.7574" size="0.6096" layer="22" rot="MR270">RESET</text>
 <text x="23.4696" y="14.6558" size="0.6096" layer="22" rot="MR270">VIN</text>
@@ -933,7 +933,7 @@ design rules under a new name.</description>
 </element>
 <element name="SD" library="zetex" package="SOT-23" value="FDN340P" x="38.4302" y="2.1844" smashed="yes" rot="R270">
 <attribute name="VALUE" x="40.2082" y="3.5814" size="1.27" layer="27" ratio="10" rot="R270"/>
-<attribute name="NAME" x="40.2082" y="0.8382" size="0.6096" layer="25" ratio="10"/>
+<attribute name="NAME" x="40.767" y="2.5654" size="0.6096" layer="25" ratio="10" rot="R90"/>
 </element>
 <element name="C9" library="rcl" package="C0805@1" value=".1uF" x="41.656" y="2.159" smashed="yes" rot="R270">
 <attribute name="NAME" x="43.2308" y="1.8034" size="0.6096" layer="25" rot="R90"/>
